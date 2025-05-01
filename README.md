@@ -13,8 +13,6 @@
 
 
 
-- 🌱 I’m currently learning **Lessons in Coursera - IBM Data Analyst Certificat Professionnel & IBM Data Science**
-
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/louisebios](https://www.datascienceportfol.io/louisebios)
 
 - 📫 How to reach me **louisebios58@gmail.com**
