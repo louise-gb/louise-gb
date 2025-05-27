@@ -8,10 +8,9 @@
 
 <body >
 
-<img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="400">
-
-
-
+<p align="center">
+  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="400">
+</p>
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/louisebios](https://www.datascienceportfol.io/louisebios)
 
